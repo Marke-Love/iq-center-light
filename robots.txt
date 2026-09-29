@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /send.php
+
+Sitemap: https://example.ru/sitemap.xml
